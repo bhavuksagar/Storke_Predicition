@@ -191,6 +191,8 @@ id,gender,age,hypertension,heart_disease,ever_married,work_type,Residence_type,a
 66955,Male,61,0,1,Yes,Private,Urban,209.86,N/A,never smoked,1
 24905,Female,65,0,0,Yes,Private,Urban,205.77,46,formerly smoked,1
 66071,Male,51,1,0,Yes,Private,Urban,112.16,42.5,formerly smoked,1
+24905,Female,65,0,0,Yes,Private,Urban,205.77,46,formerly smoked,1
+66071,Male,51,1,0,Yes,Private,Urban,112.16,42.5,formerly smoked,1
 36255,Male,59,0,0,Yes,Self-employed,Rural,118.03,35.5,smokes,1
 69112,Male,68,1,1,Yes,Private,Rural,271.74,31.1,smokes,1
 23410,Female,72,0,0,Yes,Private,Rural,97.92,26.9,smokes,1
